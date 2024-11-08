@@ -1,0 +1,1001 @@
+ID,Proveedor,Tipo de Servicio,Fecha de Inicio,Duración (min),Uso de Datos (MB)
+1,Claro,Internet Fijo,2024-02-29,0,1922
+2,Tigo,Llamada Internacional,2024-02-11,42,0
+3,Movistar,Llamada,2024-09-25,22,0
+4,Claro,Internet MÃ³vil,2024-07-05,0,2786
+5,Movistar,SMS,2024-04-09,0,0
+6,Tigo,Llamada,2024-05-09,14,0
+7,Movistar,Internet MÃ³vil,2024-08-12,0,9738
+8,Tigo,SMS,2024-05-13,0,0
+9,Tigo,Internet MÃ³vil,2024-10-30,0,269
+10,Claro,Internet Fijo,2024-06-25,0,668
+11,Movistar,SMS,2024-06-05,0,0
+12,Claro,Internet MÃ³vil,2024-08-23,0,9726
+13,Movistar,Internet MÃ³vil,2024-04-25,0,4970
+14,Movistar,Internet Fijo,2024-10-20,0,8643
+15,Movistar,Internet Fijo,2023-12-01,0,4760
+16,Movistar,Internet Fijo,2024-01-12,0,2601
+17,Claro,Llamada,2024-09-17,6,0
+18,Movistar,Llamada,2024-05-11,33,0
+19,Movistar,Llamada Internacional,2024-03-18,17,0
+20,Movistar,SMS,2024-07-16,0,0
+21,Movistar,Internet Fijo,2024-07-05,0,9440
+22,Movistar,Internet MÃ³vil,2024-08-15,0,5264
+23,Claro,Internet MÃ³vil,2024-02-17,0,1748
+24,Tigo,SMS,2024-01-02,0,0
+25,Movistar,Internet Fijo,2024-09-19,0,5767
+26,Claro,SMS,2024-08-28,0,0
+27,Tigo,SMS,2024-06-09,0,0
+28,Movistar,SMS,2024-01-11,0,0
+29,Tigo,Internet MÃ³vil,2023-12-14,0,767
+30,Tigo,Internet MÃ³vil,2024-06-13,0,2373
+31,Tigo,SMS,2024-06-21,0,0
+32,Claro,Internet MÃ³vil,2024-07-23,0,5517
+33,Claro,Internet Fijo,2024-05-08,0,5494
+34,Movistar,SMS,2024-08-24,0,0
+35,Tigo,Internet Fijo,2024-09-16,0,2428
+36,Movistar,Internet MÃ³vil,2024-08-05,0,9809
+37,Movistar,Internet MÃ³vil,2024-08-23,0,5853
+38,Claro,Llamada Internacional,2024-06-06,28,0
+39,Claro,SMS,2024-02-25,0,0
+40,Claro,Internet Fijo,2023-12-23,0,6235
+41,Tigo,Llamada Internacional,2024-02-11,28,0
+42,Claro,Internet MÃ³vil,2024-07-31,0,6703
+43,Movistar,Internet Fijo,2023-11-10,0,4703
+44,Movistar,SMS,2024-03-15,0,0
+45,Claro,Llamada,2024-04-07,0,0
+46,Tigo,Llamada,2024-04-25,37,0
+47,Movistar,Llamada Internacional,2024-09-27,59,0
+48,Movistar,Llamada Internacional,2023-11-16,49,0
+49,Claro,Llamada,2024-05-24,13,0
+50,Tigo,Llamada,2024-06-16,8,0
+51,Claro,SMS,2023-12-31,0,0
+52,Tigo,Internet MÃ³vil,2024-06-11,0,2637
+53,Movistar,Llamada,2024-07-30,51,0
+54,Claro,Internet MÃ³vil,2024-08-02,0,6261
+55,Claro,SMS,2023-12-09,0,0
+56,Claro,Internet Fijo,2024-05-04,0,8746
+57,Claro,Internet Fijo,2023-11-07,0,1979
+58,Claro,Llamada Internacional,2024-06-08,41,0
+59,Claro,SMS,2024-05-20,0,0
+60,Claro,SMS,2024-08-17,0,0
+61,Claro,SMS,2024-05-09,0,0
+62,Tigo,Internet Fijo,2024-08-13,0,6120
+63,Movistar,SMS,2024-02-20,0,0
+64,Movistar,Internet MÃ³vil,2024-01-04,0,4820
+65,Tigo,Llamada,2024-04-18,27,0
+66,Claro,Internet MÃ³vil,2024-01-06,0,3397
+67,Tigo,SMS,2024-07-11,0,0
+68,Claro,Internet Fijo,2023-12-12,0,8138
+69,Claro,Internet MÃ³vil,2024-09-16,0,492
+70,Tigo,SMS,2024-03-25,0,0
+71,Movistar,Llamada Internacional,2024-10-18,49,0
+72,Tigo,Llamada,2023-11-29,29,0
+73,Tigo,SMS,2024-08-12,0,0
+74,Tigo,Llamada Internacional,2024-07-05,55,0
+75,Movistar,Internet MÃ³vil,2024-07-22,0,9015
+76,Tigo,Llamada Internacional,2024-09-23,30,0
+77,Claro,Llamada,2024-05-04,27,0
+78,Claro,Llamada,2024-05-19,46,0
+79,Movistar,Internet Fijo,2024-07-25,0,8983
+80,Claro,Internet MÃ³vil,2024-07-03,0,644
+81,Tigo,Llamada,2024-09-22,22,0
+82,Movistar,Llamada Internacional,2024-05-09,30,0
+83,Movistar,Internet Fijo,2023-11-13,0,6653
+84,Movistar,Llamada,2024-08-02,43,0
+85,Movistar,Internet Fijo,2024-01-28,0,2495
+86,Tigo,Internet MÃ³vil,2024-10-02,0,370
+87,Tigo,Llamada,2024-07-07,13,0
+88,Tigo,Llamada Internacional,2024-04-13,30,0
+89,Tigo,SMS,2023-11-19,0,0
+90,Claro,SMS,2024-02-15,0,0
+91,Movistar,Internet Fijo,2024-09-22,0,7448
+92,Claro,Internet Fijo,2024-03-19,0,7090
+93,Tigo,SMS,2024-08-20,0,0
+94,Movistar,Internet Fijo,2024-08-26,0,6742
+95,Movistar,Llamada,2024-03-25,34,0
+96,Movistar,Llamada,2024-05-06,36,0
+97,Claro,Llamada Internacional,2023-12-31,33,0
+98,Tigo,SMS,2024-07-04,0,0
+99,Claro,Internet Fijo,2024-07-02,0,9328
+100,Claro,Llamada,2023-11-27,11,0
+101,Tigo,Internet MÃ³vil,2024-08-10,0,1613
+102,Claro,Internet Fijo,2024-09-28,0,2093
+103,Movistar,Internet MÃ³vil,2024-02-19,0,1865
+104,Claro,Internet Fijo,2023-11-12,0,3197
+105,Claro,Internet Fijo,2024-10-27,0,7966
+106,Movistar,Internet MÃ³vil,2024-01-06,0,190
+107,Claro,Llamada Internacional,2024-06-15,27,0
+108,Movistar,Llamada,2024-08-30,51,0
+109,Movistar,Llamada,2024-07-05,35,0
+110,Claro,Llamada,2024-08-22,52,0
+111,Tigo,SMS,2024-09-01,0,0
+112,Movistar,SMS,2024-06-16,0,0
+113,Movistar,Llamada,2024-09-13,4,0
+114,Tigo,Internet MÃ³vil,2024-01-29,0,4844
+115,Tigo,Llamada Internacional,2024-06-25,16,0
+116,Movistar,Internet MÃ³vil,2024-10-06,0,1910
+117,Tigo,Internet MÃ³vil,2024-02-28,0,5727
+118,Movistar,Internet Fijo,2024-05-21,0,2890
+119,Movistar,Internet MÃ³vil,2024-01-15,0,2492
+120,Tigo,Llamada Internacional,2023-11-08,49,0
+121,Tigo,Internet Fijo,2024-08-16,0,4717
+122,Claro,Llamada Internacional,2024-09-08,4,0
+123,Claro,SMS,2024-04-24,0,0
+124,Movistar,SMS,2024-04-21,0,0
+125,Tigo,Internet Fijo,2024-06-09,0,983
+126,Claro,Internet Fijo,2024-01-30,0,3595
+127,Movistar,Llamada,2024-09-24,9,0
+128,Movistar,Llamada Internacional,2024-04-27,14,0
+129,Tigo,Internet Fijo,2024-03-08,0,4014
+130,Movistar,Internet MÃ³vil,2024-05-16,0,7523
+131,Claro,Llamada,2024-04-17,46,0
+132,Tigo,Internet Fijo,2024-09-13,0,7484
+133,Claro,Internet MÃ³vil,2024-09-25,0,5384
+134,Movistar,Internet Fijo,2024-05-03,0,787
+135,Claro,Llamada Internacional,2024-01-13,56,0
+136,Movistar,Llamada,2024-10-18,44,0
+137,Tigo,SMS,2024-08-12,0,0
+138,Tigo,SMS,2024-10-29,0,0
+139,Tigo,Llamada,2024-10-06,21,0
+140,Movistar,Llamada Internacional,2024-04-10,51,0
+141,Tigo,Llamada,2024-09-06,40,0
+142,Claro,Internet MÃ³vil,2024-03-14,0,5479
+143,Movistar,Internet MÃ³vil,2024-10-27,0,1064
+144,Movistar,Llamada,2024-10-28,4,0
+145,Tigo,SMS,2024-08-29,0,0
+146,Tigo,Llamada,2024-02-15,53,0
+147,Tigo,Llamada Internacional,2024-07-11,38,0
+148,Claro,Llamada,2024-07-11,8,0
+149,Movistar,Internet MÃ³vil,2024-09-25,0,6091
+150,Tigo,Llamada,2024-07-12,37,0
+151,Tigo,Llamada Internacional,2024-01-27,15,0
+152,Claro,Llamada Internacional,2023-11-27,21,0
+153,Movistar,Internet MÃ³vil,2023-12-21,0,5703
+154,Claro,Internet Fijo,2024-06-22,0,334
+155,Movistar,Internet MÃ³vil,2024-05-05,0,7367
+156,Movistar,Internet MÃ³vil,2024-07-03,0,8587
+157,Tigo,Internet Fijo,2024-02-17,0,4973
+158,Tigo,Llamada Internacional,2024-08-08,55,0
+159,Movistar,Llamada,2024-07-15,6,0
+160,Movistar,Llamada Internacional,2024-10-31,11,0
+161,Movistar,Internet Fijo,2024-05-31,0,8796
+162,Tigo,Llamada Internacional,2024-01-27,38,0
+163,Movistar,Internet Fijo,2024-02-29,0,9678
+164,Movistar,Internet Fijo,2024-09-04,0,770
+165,Tigo,Llamada Internacional,2024-08-31,8,0
+166,Tigo,Internet MÃ³vil,2024-04-18,0,8835
+167,Tigo,Llamada,2024-10-25,0,0
+168,Claro,Internet MÃ³vil,2024-08-03,0,29
+169,Tigo,Internet Fijo,2023-11-28,0,8010
+170,Claro,Internet Fijo,2023-11-17,0,4711
+171,Claro,SMS,2024-04-01,0,0
+172,Tigo,Internet Fijo,2024-06-09,0,3566
+173,Movistar,Llamada Internacional,2024-07-08,36,0
+174,Tigo,Internet MÃ³vil,2023-11-21,0,5195
+175,Movistar,Llamada Internacional,2024-04-12,6,0
+176,Tigo,SMS,2024-06-06,0,0
+177,Tigo,Internet Fijo,2024-08-17,0,9168
+178,Movistar,Internet MÃ³vil,2024-01-29,0,603
+179,Tigo,Internet MÃ³vil,2024-07-21,0,689
+180,Tigo,Llamada Internacional,2024-08-30,6,0
+181,Movistar,Llamada Internacional,2024-04-01,17,0
+182,Claro,Llamada,2024-01-30,4,0
+183,Movistar,Llamada Internacional,2024-07-02,27,0
+184,Tigo,Internet MÃ³vil,2024-08-31,0,5406
+185,Claro,Llamada,2024-06-29,32,0
+186,Movistar,Llamada Internacional,2024-02-26,33,0
+187,Claro,Internet MÃ³vil,2024-01-26,0,4791
+188,Claro,Internet Fijo,2024-01-20,0,9952
+189,Movistar,Llamada,2024-02-27,16,0
+190,Movistar,SMS,2024-05-01,0,0
+191,Claro,Internet MÃ³vil,2024-06-05,0,9194
+192,Tigo,Llamada,2024-02-23,26,0
+193,Tigo,Llamada,2024-06-20,26,0
+194,Movistar,Internet Fijo,2024-09-15,0,754
+195,Claro,Llamada Internacional,2024-08-06,32,0
+196,Tigo,Llamada,2023-11-29,42,0
+197,Movistar,Llamada,2024-09-06,12,0
+198,Claro,Llamada,2024-05-26,39,0
+199,Claro,Llamada Internacional,2024-08-05,3,0
+200,Movistar,Llamada,2024-05-03,4,0
+201,Claro,Llamada Internacional,2024-06-13,21,0
+202,Claro,Llamada,2024-02-04,7,0
+203,Movistar,Llamada Internacional,2024-09-04,37,0
+204,Movistar,Llamada,2024-06-24,34,0
+205,Movistar,Internet MÃ³vil,2024-01-03,0,9894
+206,Claro,Internet MÃ³vil,2024-08-27,0,8235
+207,Tigo,Internet Fijo,2024-01-08,0,9339
+208,Tigo,SMS,2024-07-26,0,0
+209,Claro,Internet Fijo,2023-11-30,0,9752
+210,Movistar,SMS,2024-10-17,0,0
+211,Movistar,Llamada Internacional,2024-04-16,15,0
+212,Movistar,Llamada Internacional,2024-07-07,12,0
+213,Claro,Internet Fijo,2024-04-15,0,1100
+214,Claro,Internet Fijo,2023-12-13,0,4109
+215,Tigo,Internet Fijo,2024-06-08,0,2275
+216,Tigo,Llamada Internacional,2024-03-30,20,0
+217,Movistar,SMS,2024-08-11,0,0
+218,Movistar,Internet Fijo,2024-01-23,0,6994
+219,Movistar,Internet MÃ³vil,2024-10-20,0,7823
+220,Claro,Llamada,2024-08-16,7,0
+221,Claro,Internet MÃ³vil,2024-01-12,0,6027
+222,Claro,Internet Fijo,2024-04-09,0,5694
+223,Tigo,Llamada,2024-08-22,37,0
+224,Tigo,Internet Fijo,2024-08-23,0,1949
+225,Movistar,Llamada Internacional,2024-05-04,37,0
+226,Claro,Llamada Internacional,2023-11-07,31,0
+227,Movistar,Llamada Internacional,2024-10-20,45,0
+228,Tigo,SMS,2024-07-16,0,0
+229,Movistar,SMS,2023-12-02,0,0
+230,Tigo,Llamada,2023-12-28,60,0
+231,Tigo,Internet MÃ³vil,2024-10-01,0,818
+232,Movistar,Internet MÃ³vil,2023-11-30,0,3238
+233,Tigo,Llamada Internacional,2024-05-21,33,0
+234,Tigo,Llamada,2023-11-14,12,0
+235,Tigo,Llamada,2024-06-02,33,0
+236,Tigo,Internet MÃ³vil,2024-04-15,0,6766
+237,Tigo,SMS,2024-01-16,0,0
+238,Movistar,SMS,2024-09-14,0,0
+239,Movistar,Llamada,2024-07-06,32,0
+240,Movistar,Internet Fijo,2023-11-30,0,6410
+241,Tigo,Llamada Internacional,2023-12-25,31,0
+242,Tigo,SMS,2024-07-29,0,0
+243,Claro,Llamada Internacional,2024-02-21,29,0
+244,Claro,Llamada Internacional,2024-07-22,49,0
+245,Tigo,Internet MÃ³vil,2024-08-26,0,132
+246,Claro,Llamada,2024-03-09,5,0
+247,Movistar,SMS,2024-10-08,0,0
+248,Claro,Internet Fijo,2024-07-11,0,8631
+249,Tigo,Internet Fijo,2024-01-18,0,649
+250,Movistar,Internet Fijo,2024-05-04,0,7573
+251,Claro,SMS,2024-05-08,0,0
+252,Tigo,Llamada,2024-09-01,3,0
+253,Tigo,Llamada,2024-07-10,54,0
+254,Claro,Internet Fijo,2023-11-20,0,8844
+255,Tigo,SMS,2023-11-29,0,0
+256,Movistar,Internet Fijo,2024-10-05,0,8619
+257,Tigo,Llamada Internacional,2024-04-29,21,0
+258,Tigo,SMS,2024-08-04,0,0
+259,Claro,Llamada,2023-12-27,55,0
+260,Movistar,Llamada,2024-06-28,56,0
+261,Movistar,Llamada Internacional,2024-03-10,20,0
+262,Tigo,SMS,2024-05-09,0,0
+263,Claro,SMS,2024-05-29,0,0
+264,Tigo,Llamada,2024-02-03,7,0
+265,Claro,Llamada Internacional,2024-01-20,35,0
+266,Movistar,Llamada,2023-11-28,35,0
+267,Claro,Llamada,2023-12-23,10,0
+268,Movistar,SMS,2024-08-22,0,0
+269,Tigo,Llamada,2024-09-14,37,0
+270,Movistar,Llamada Internacional,2024-01-14,55,0
+271,Tigo,Llamada Internacional,2024-10-30,51,0
+272,Movistar,Internet MÃ³vil,2024-03-31,0,4783
+273,Tigo,Internet MÃ³vil,2024-09-07,0,1123
+274,Claro,Internet Fijo,2024-07-21,0,4965
+275,Tigo,Llamada,2023-11-14,48,0
+276,Claro,SMS,2024-10-19,0,0
+277,Tigo,SMS,2024-09-06,0,0
+278,Movistar,Llamada,2024-01-14,1,0
+279,Tigo,Llamada Internacional,2023-12-01,0,0
+280,Tigo,Internet Fijo,2024-04-13,0,4576
+281,Claro,SMS,2023-12-19,0,0
+282,Claro,SMS,2024-11-02,0,0
+283,Movistar,SMS,2024-07-03,0,0
+284,Tigo,Internet Fijo,2024-05-06,0,8708
+285,Claro,Internet Fijo,2024-06-16,0,6440
+286,Tigo,Internet Fijo,2024-08-01,0,5519
+287,Claro,Internet Fijo,2024-10-04,0,7925
+288,Movistar,Llamada Internacional,2024-08-31,60,0
+289,Claro,Llamada,2023-11-11,52,0
+290,Tigo,Llamada,2024-08-12,20,0
+291,Movistar,SMS,2023-11-23,0,0
+292,Movistar,Llamada,2024-01-12,46,0
+293,Claro,SMS,2024-10-18,0,0
+294,Tigo,Internet MÃ³vil,2024-07-02,0,2520
+295,Claro,Internet MÃ³vil,2024-09-25,0,5570
+296,Tigo,Internet MÃ³vil,2024-08-04,0,8736
+297,Movistar,Llamada Internacional,2024-03-16,20,0
+298,Tigo,Llamada Internacional,2024-08-14,27,0
+299,Movistar,Internet Fijo,2024-08-31,0,3421
+300,Claro,Llamada Internacional,2024-06-15,26,0
+301,Tigo,SMS,2024-04-06,0,0
+302,Movistar,Internet MÃ³vil,2024-08-17,0,1866
+303,Movistar,SMS,2023-12-01,0,0
+304,Tigo,SMS,2024-09-25,0,0
+305,Movistar,SMS,2024-09-13,0,0
+306,Claro,Llamada Internacional,2024-08-14,2,0
+307,Movistar,SMS,2024-03-09,0,0
+308,Movistar,Llamada,2024-04-21,51,0
+309,Claro,Internet MÃ³vil,2024-10-21,0,7633
+310,Tigo,Llamada,2023-12-16,44,0
+311,Movistar,Internet MÃ³vil,2024-08-16,0,8132
+312,Tigo,SMS,2024-06-09,0,0
+313,Claro,Internet Fijo,2024-05-16,0,9412
+314,Tigo,SMS,2024-05-19,0,0
+315,Movistar,Llamada Internacional,2024-04-19,24,0
+316,Claro,SMS,2024-03-29,0,0
+317,Claro,Llamada Internacional,2024-04-01,54,0
+318,Claro,Llamada,2023-11-13,38,0
+319,Movistar,Llamada,2024-01-04,35,0
+320,Claro,Internet Fijo,2024-02-22,0,7354
+321,Tigo,SMS,2024-10-02,0,0
+322,Claro,Internet Fijo,2024-06-30,0,1040
+323,Movistar,Internet MÃ³vil,2024-05-17,0,2788
+324,Claro,Internet MÃ³vil,2024-10-26,0,8541
+325,Tigo,Llamada,2024-03-22,51,0
+326,Movistar,Llamada,2024-10-11,16,0
+327,Movistar,Llamada,2024-03-21,39,0
+328,Claro,SMS,2024-09-20,0,0
+329,Claro,Llamada Internacional,2024-05-19,46,0
+330,Claro,Internet Fijo,2024-06-30,0,384
+331,Claro,Internet Fijo,2024-02-04,0,1510
+332,Claro,Llamada,2024-10-25,14,0
+333,Tigo,Llamada,2024-08-04,30,0
+334,Claro,Llamada,2024-04-13,18,0
+335,Claro,SMS,2024-08-29,0,0
+336,Tigo,Llamada,2024-08-06,14,0
+337,Tigo,Llamada Internacional,2024-08-25,28,0
+338,Movistar,Llamada,2024-08-24,22,0
+339,Tigo,Internet Fijo,2024-06-21,0,9346
+340,Movistar,Internet Fijo,2024-04-30,0,197
+341,Tigo,Internet Fijo,2024-09-12,0,2973
+342,Claro,Llamada,2024-03-28,18,0
+343,Tigo,SMS,2023-12-08,0,0
+344,Tigo,Internet MÃ³vil,2024-09-10,0,3667
+345,Claro,Llamada,2024-10-12,7,0
+346,Claro,Internet MÃ³vil,2024-02-11,0,476
+347,Tigo,Llamada,2023-12-11,0,0
+348,Tigo,Llamada,2023-12-04,4,0
+349,Tigo,SMS,2024-07-28,0,0
+350,Movistar,SMS,2024-07-14,0,0
+351,Movistar,Llamada Internacional,2024-05-17,42,0
+352,Tigo,SMS,2024-10-25,0,0
+353,Tigo,SMS,2024-03-29,0,0
+354,Movistar,Llamada,2024-06-18,9,0
+355,Movistar,Internet MÃ³vil,2024-01-30,0,6217
+356,Movistar,SMS,2023-11-11,0,0
+357,Movistar,Internet Fijo,2024-08-28,0,1012
+358,Tigo,Internet MÃ³vil,2024-05-19,0,6618
+359,Claro,Internet Fijo,2024-10-25,0,779
+360,Claro,Internet MÃ³vil,2023-12-28,0,7532
+361,Tigo,Internet MÃ³vil,2024-04-06,0,4885
+362,Movistar,Llamada,2024-10-16,60,0
+363,Movistar,Internet MÃ³vil,2023-12-24,0,7598
+364,Tigo,Internet MÃ³vil,2024-07-29,0,4528
+365,Movistar,SMS,2024-01-21,0,0
+366,Claro,SMS,2024-03-19,0,0
+367,Tigo,Llamada,2024-01-05,26,0
+368,Tigo,Internet Fijo,2023-12-02,0,4474
+369,Tigo,Internet MÃ³vil,2024-03-20,0,648
+370,Tigo,SMS,2024-07-07,0,0
+371,Movistar,Llamada Internacional,2024-02-22,10,0
+372,Movistar,SMS,2024-07-02,0,0
+373,Movistar,Internet Fijo,2024-09-09,0,4627
+374,Movistar,Llamada Internacional,2024-01-31,7,0
+375,Movistar,Internet Fijo,2024-02-21,0,1788
+376,Claro,Llamada Internacional,2024-09-07,46,0
+377,Tigo,SMS,2024-10-06,0,0
+378,Tigo,Internet MÃ³vil,2024-10-29,0,9933
+379,Tigo,Internet Fijo,2024-07-10,0,8291
+380,Tigo,Internet MÃ³vil,2024-09-27,0,2748
+381,Movistar,Internet Fijo,2024-02-28,0,9760
+382,Claro,Internet MÃ³vil,2024-02-29,0,254
+383,Tigo,Internet Fijo,2024-07-14,0,5222
+384,Tigo,Llamada Internacional,2024-04-26,52,0
+385,Movistar,Llamada,2024-05-11,53,0
+386,Movistar,Internet MÃ³vil,2024-02-25,0,690
+387,Tigo,Internet MÃ³vil,2024-01-21,0,3895
+388,Movistar,Llamada,2024-10-10,52,0
+389,Claro,Internet Fijo,2024-03-18,0,4835
+390,Movistar,SMS,2024-10-23,0,0
+391,Tigo,Llamada,2024-03-01,24,0
+392,Claro,SMS,2024-10-16,0,0
+393,Tigo,Llamada,2023-12-13,36,0
+394,Claro,Internet Fijo,2024-10-13,0,9321
+395,Claro,Internet MÃ³vil,2023-11-12,0,1169
+396,Claro,Llamada,2024-11-05,37,0
+397,Tigo,Llamada,2023-11-19,32,0
+398,Movistar,Internet Fijo,2024-04-09,0,259
+399,Claro,Llamada Internacional,2024-07-01,20,0
+400,Tigo,SMS,2024-04-23,0,0
+401,Tigo,Internet MÃ³vil,2023-11-23,0,934
+402,Movistar,Llamada Internacional,2024-11-02,55,0
+403,Movistar,Internet MÃ³vil,2024-01-11,0,9718
+404,Movistar,Internet MÃ³vil,2024-05-13,0,9894
+405,Tigo,Llamada,2024-03-14,23,0
+406,Claro,Llamada Internacional,2024-08-18,42,0
+407,Claro,Llamada Internacional,2023-11-12,6,0
+408,Claro,Internet MÃ³vil,2024-06-07,0,2256
+409,Movistar,Internet Fijo,2024-07-28,0,3289
+410,Tigo,SMS,2024-06-09,0,0
+411,Movistar,SMS,2024-08-08,0,0
+412,Claro,Llamada Internacional,2024-03-16,3,0
+413,Movistar,Internet Fijo,2024-01-06,0,3075
+414,Movistar,Llamada Internacional,2024-01-26,0,0
+415,Claro,Llamada Internacional,2023-11-29,10,0
+416,Movistar,Llamada Internacional,2024-04-04,42,0
+417,Claro,Internet Fijo,2024-01-15,0,5206
+418,Movistar,Internet MÃ³vil,2024-02-16,0,3913
+419,Movistar,Llamada,2024-02-05,21,0
+420,Claro,Llamada Internacional,2023-11-09,24,0
+421,Tigo,Llamada,2024-08-07,58,0
+422,Tigo,SMS,2024-06-21,0,0
+423,Tigo,Internet Fijo,2024-02-02,0,1758
+424,Tigo,Llamada,2024-09-28,32,0
+425,Claro,Internet MÃ³vil,2024-01-10,0,838
+426,Claro,Internet Fijo,2024-01-19,0,82
+427,Movistar,Internet Fijo,2024-11-05,0,9483
+428,Claro,Internet MÃ³vil,2024-05-23,0,7637
+429,Tigo,Llamada Internacional,2024-05-20,57,0
+430,Movistar,SMS,2024-07-02,0,0
+431,Claro,Internet Fijo,2024-05-09,0,6222
+432,Movistar,Internet Fijo,2024-08-29,0,3943
+433,Claro,Llamada Internacional,2024-09-18,34,0
+434,Claro,Internet Fijo,2024-03-19,0,3155
+435,Claro,Llamada Internacional,2023-11-14,26,0
+436,Claro,Llamada,2024-07-30,16,0
+437,Claro,Internet Fijo,2024-10-07,0,4670
+438,Claro,Internet MÃ³vil,2023-11-13,0,773
+439,Claro,Internet MÃ³vil,2024-04-04,0,5686
+440,Claro,Internet Fijo,2024-03-13,0,3665
+441,Claro,SMS,2023-12-20,0,0
+442,Movistar,Internet MÃ³vil,2023-12-14,0,6380
+443,Claro,Llamada,2024-01-23,19,0
+444,Claro,Internet Fijo,2024-09-06,0,7211
+445,Movistar,Internet Fijo,2024-04-17,0,9128
+446,Movistar,SMS,2024-03-02,0,0
+447,Movistar,Llamada Internacional,2023-12-15,16,0
+448,Movistar,Llamada,2024-09-13,24,0
+449,Claro,Llamada Internacional,2024-08-10,46,0
+450,Tigo,Internet Fijo,2024-09-20,0,2363
+451,Claro,Internet MÃ³vil,2024-06-25,0,8835
+452,Movistar,SMS,2023-12-08,0,0
+453,Claro,Llamada,2024-03-11,18,0
+454,Movistar,Internet MÃ³vil,2024-10-13,0,5047
+455,Movistar,Internet Fijo,2024-02-12,0,9558
+456,Movistar,Llamada,2024-02-22,47,0
+457,Movistar,Llamada Internacional,2023-12-28,45,0
+458,Movistar,Internet MÃ³vil,2024-07-02,0,6765
+459,Movistar,Internet MÃ³vil,2024-01-06,0,5191
+460,Tigo,Llamada,2023-12-25,57,0
+461,Movistar,Internet Fijo,2024-02-14,0,2799
+462,Movistar,Llamada Internacional,2024-03-13,11,0
+463,Claro,Internet MÃ³vil,2024-08-17,0,9751
+464,Tigo,Internet Fijo,2024-01-29,0,9807
+465,Movistar,Llamada,2023-11-18,46,0
+466,Movistar,Internet MÃ³vil,2024-08-21,0,4316
+467,Claro,Internet Fijo,2023-12-16,0,8574
+468,Claro,Internet Fijo,2024-01-11,0,9272
+469,Claro,Internet MÃ³vil,2024-08-20,0,5825
+470,Movistar,Internet Fijo,2024-08-05,0,4574
+471,Claro,Internet MÃ³vil,2024-06-17,0,9028
+472,Tigo,Llamada,2023-12-12,55,0
+473,Claro,Llamada Internacional,2024-02-08,43,0
+474,Movistar,Internet Fijo,2024-10-23,0,7352
+475,Claro,Llamada,2024-10-29,58,0
+476,Movistar,Llamada Internacional,2024-09-06,2,0
+477,Movistar,Llamada,2024-02-08,26,0
+478,Tigo,Llamada Internacional,2024-10-07,48,0
+479,Tigo,Internet Fijo,2024-03-08,0,5112
+480,Tigo,SMS,2024-09-28,0,0
+481,Movistar,Internet MÃ³vil,2024-08-03,0,4462
+482,Claro,Internet MÃ³vil,2024-05-18,0,3651
+483,Movistar,Internet Fijo,2024-03-01,0,1220
+484,Claro,Internet Fijo,2024-08-04,0,1304
+485,Movistar,SMS,2024-01-17,0,0
+486,Tigo,Internet MÃ³vil,2024-10-26,0,4649
+487,Claro,Internet Fijo,2024-10-08,0,8976
+488,Tigo,Internet MÃ³vil,2024-01-16,0,7540
+489,Movistar,Llamada Internacional,2024-07-15,15,0
+490,Claro,Llamada,2024-01-12,50,0
+491,Claro,Llamada Internacional,2024-05-05,34,0
+492,Claro,Llamada,2024-08-12,52,0
+493,Movistar,Llamada,2024-05-26,10,0
+494,Claro,Internet MÃ³vil,2024-05-08,0,3105
+495,Movistar,Internet MÃ³vil,2024-09-25,0,715
+496,Tigo,Internet MÃ³vil,2024-09-06,0,9100
+497,Tigo,Llamada,2024-05-06,30,0
+498,Claro,Llamada Internacional,2023-11-08,51,0
+499,Claro,Internet Fijo,2023-11-11,0,5049
+500,Movistar,Internet Fijo,2024-10-09,0,1896
+501,Movistar,Llamada,2024-03-04,8,0
+502,Claro,Internet MÃ³vil,2024-04-12,0,4792
+503,Claro,Llamada,2024-03-19,41,0
+504,Tigo,Internet Fijo,2024-03-10,0,7780
+505,Claro,SMS,2023-12-30,0,0
+506,Tigo,Internet Fijo,2023-12-16,0,4787
+507,Tigo,Llamada Internacional,2024-08-04,5,0
+508,Tigo,Internet MÃ³vil,2024-01-06,0,7972
+509,Claro,Internet MÃ³vil,2024-07-08,0,548
+510,Claro,Internet MÃ³vil,2024-06-25,0,8407
+511,Tigo,Internet Fijo,2024-07-03,0,5163
+512,Claro,SMS,2024-08-24,0,0
+513,Tigo,Internet Fijo,2024-03-15,0,3109
+514,Movistar,Llamada,2024-07-03,26,0
+515,Tigo,Internet Fijo,2024-01-20,0,5729
+516,Claro,Internet Fijo,2024-08-18,0,9125
+517,Claro,Internet Fijo,2024-10-31,0,9671
+518,Claro,Llamada,2024-08-27,4,0
+519,Movistar,Internet Fijo,2024-06-18,0,7763
+520,Movistar,SMS,2024-07-22,0,0
+521,Claro,Llamada Internacional,2023-12-15,35,0
+522,Claro,Llamada,2024-09-12,10,0
+523,Tigo,Internet Fijo,2024-09-20,0,5547
+524,Tigo,Llamada,2024-09-16,12,0
+525,Tigo,Internet Fijo,2024-07-23,0,470
+526,Movistar,Llamada,2024-01-30,55,0
+527,Tigo,Llamada Internacional,2024-03-27,4,0
+528,Movistar,SMS,2024-10-31,0,0
+529,Movistar,SMS,2024-05-10,0,0
+530,Tigo,SMS,2024-03-19,0,0
+531,Claro,Llamada Internacional,2024-04-13,0,0
+532,Movistar,Internet Fijo,2024-09-20,0,8674
+533,Movistar,Llamada,2024-09-28,27,0
+534,Claro,Llamada,2024-09-17,20,0
+535,Tigo,Llamada Internacional,2024-06-14,11,0
+536,Tigo,Llamada Internacional,2023-12-21,58,0
+537,Claro,Internet Fijo,2024-07-07,0,7499
+538,Tigo,Internet MÃ³vil,2024-04-06,0,4978
+539,Tigo,SMS,2024-07-30,0,0
+540,Movistar,Llamada Internacional,2024-09-21,47,0
+541,Claro,SMS,2024-10-05,0,0
+542,Movistar,SMS,2024-10-03,0,0
+543,Movistar,Internet Fijo,2023-11-14,0,7639
+544,Claro,Internet MÃ³vil,2023-11-09,0,5453
+545,Movistar,SMS,2024-02-01,0,0
+546,Claro,Internet Fijo,2024-03-06,0,7070
+547,Movistar,SMS,2024-06-10,0,0
+548,Claro,Internet MÃ³vil,2024-07-28,0,4275
+549,Tigo,Llamada,2024-07-17,19,0
+550,Claro,SMS,2024-10-06,0,0
+551,Claro,Llamada,2024-03-07,8,0
+552,Tigo,SMS,2024-03-31,0,0
+553,Claro,Llamada,2024-07-30,52,0
+554,Tigo,Internet Fijo,2024-09-16,0,7810
+555,Tigo,Llamada Internacional,2024-09-30,44,0
+556,Claro,Internet MÃ³vil,2024-10-18,0,8423
+557,Tigo,Llamada Internacional,2024-10-25,23,0
+558,Claro,SMS,2024-04-13,0,0
+559,Tigo,Llamada,2024-01-22,21,0
+560,Tigo,SMS,2023-12-23,0,0
+561,Claro,Llamada,2024-05-04,59,0
+562,Movistar,Llamada Internacional,2023-12-20,48,0
+563,Movistar,Llamada,2023-12-21,1,0
+564,Movistar,SMS,2024-03-15,0,0
+565,Claro,Llamada Internacional,2024-06-23,9,0
+566,Claro,Llamada Internacional,2023-12-09,55,0
+567,Claro,Llamada Internacional,2024-09-07,33,0
+568,Claro,SMS,2024-03-17,0,0
+569,Movistar,Llamada Internacional,2024-09-05,58,0
+570,Tigo,Llamada Internacional,2024-01-29,4,0
+571,Claro,Internet MÃ³vil,2024-02-03,0,8718
+572,Tigo,Internet Fijo,2023-12-27,0,8186
+573,Claro,SMS,2023-12-31,0,0
+574,Tigo,Internet MÃ³vil,2024-06-11,0,8885
+575,Claro,Llamada Internacional,2024-07-17,54,0
+576,Tigo,Internet Fijo,2023-12-10,0,1171
+577,Claro,SMS,2024-07-28,0,0
+578,Tigo,SMS,2024-01-06,0,0
+579,Tigo,Llamada,2023-11-19,43,0
+580,Movistar,Llamada Internacional,2024-05-03,8,0
+581,Movistar,Llamada Internacional,2024-04-04,20,0
+582,Movistar,Llamada Internacional,2024-09-23,8,0
+583,Movistar,Llamada Internacional,2023-12-06,0,0
+584,Claro,Llamada Internacional,2024-07-14,20,0
+585,Tigo,SMS,2024-05-19,0,0
+586,Movistar,Internet MÃ³vil,2024-05-30,0,3634
+587,Movistar,Llamada Internacional,2024-07-12,58,0
+588,Claro,Llamada,2024-06-25,0,0
+589,Movistar,Llamada Internacional,2024-10-09,43,0
+590,Tigo,Llamada,2024-04-16,10,0
+591,Movistar,Llamada Internacional,2024-05-30,53,0
+592,Claro,Llamada,2023-12-20,36,0
+593,Tigo,SMS,2024-10-13,0,0
+594,Tigo,Internet Fijo,2024-01-13,0,3578
+595,Claro,SMS,2024-04-08,0,0
+596,Tigo,Internet Fijo,2024-08-18,0,2514
+597,Claro,Internet MÃ³vil,2024-10-16,0,6512
+598,Movistar,Llamada,2024-10-08,42,0
+599,Movistar,Llamada Internacional,2024-10-07,11,0
+600,Movistar,Internet Fijo,2024-05-14,0,4518
+601,Claro,Internet MÃ³vil,2024-06-17,0,3974
+602,Tigo,Llamada Internacional,2023-12-15,42,0
+603,Tigo,Llamada Internacional,2024-08-19,58,0
+604,Claro,Internet Fijo,2024-08-28,0,4746
+605,Movistar,Internet MÃ³vil,2024-05-29,0,5531
+606,Tigo,Internet Fijo,2023-11-16,0,7009
+607,Movistar,SMS,2024-10-12,0,0
+608,Claro,SMS,2024-09-23,0,0
+609,Movistar,Llamada Internacional,2024-06-26,22,0
+610,Tigo,SMS,2024-01-15,0,0
+611,Tigo,Llamada,2024-10-26,56,0
+612,Claro,Internet MÃ³vil,2024-05-28,0,5494
+613,Movistar,Llamada Internacional,2024-08-31,38,0
+614,Tigo,Llamada,2024-10-29,0,0
+615,Movistar,SMS,2023-12-19,0,0
+616,Claro,Internet MÃ³vil,2024-02-28,0,1258
+617,Claro,Internet MÃ³vil,2024-03-15,0,9911
+618,Movistar,Internet MÃ³vil,2023-11-27,0,1377
+619,Tigo,Internet Fijo,2024-02-17,0,1308
+620,Movistar,Llamada,2024-02-24,55,0
+621,Movistar,Internet Fijo,2024-01-18,0,8024
+622,Tigo,Llamada Internacional,2024-08-27,43,0
+623,Claro,Llamada Internacional,2024-09-28,37,0
+624,Tigo,Llamada,2024-01-13,48,0
+625,Movistar,Llamada Internacional,2024-10-04,57,0
+626,Tigo,Llamada,2024-02-28,2,0
+627,Claro,Internet Fijo,2024-06-07,0,2790
+628,Claro,Internet MÃ³vil,2024-05-18,0,4195
+629,Movistar,Llamada Internacional,2024-04-03,36,0
+630,Claro,Internet MÃ³vil,2024-03-21,0,7307
+631,Movistar,Internet MÃ³vil,2024-07-19,0,1073
+632,Movistar,Internet Fijo,2024-03-18,0,628
+633,Claro,Internet MÃ³vil,2024-02-10,0,9577
+634,Tigo,SMS,2024-07-16,0,0
+635,Movistar,SMS,2024-03-11,0,0
+636,Claro,SMS,2024-06-30,0,0
+637,Tigo,Llamada Internacional,2024-08-23,8,0
+638,Tigo,SMS,2024-07-01,0,0
+639,Tigo,Internet Fijo,2024-01-31,0,1830
+640,Claro,Llamada,2023-11-25,4,0
+641,Tigo,Internet Fijo,2024-01-10,0,1771
+642,Movistar,Llamada,2024-05-10,36,0
+643,Tigo,SMS,2024-02-27,0,0
+644,Movistar,Internet MÃ³vil,2024-09-05,0,1329
+645,Claro,Llamada,2024-06-21,4,0
+646,Claro,SMS,2024-03-15,0,0
+647,Claro,Internet MÃ³vil,2024-03-15,0,3051
+648,Claro,Llamada,2024-03-22,41,0
+649,Claro,Internet Fijo,2024-10-06,0,852
+650,Claro,Llamada Internacional,2023-11-07,46,0
+651,Tigo,Llamada Internacional,2024-03-08,14,0
+652,Claro,Llamada Internacional,2024-06-07,12,0
+653,Tigo,Internet Fijo,2024-01-28,0,528
+654,Movistar,SMS,2023-12-01,0,0
+655,Tigo,Internet MÃ³vil,2024-06-17,0,1805
+656,Tigo,SMS,2024-09-25,0,0
+657,Movistar,Llamada Internacional,2024-09-09,5,0
+658,Claro,SMS,2024-02-10,0,0
+659,Tigo,Internet Fijo,2024-08-09,0,410
+660,Claro,SMS,2024-08-18,0,0
+661,Movistar,Llamada Internacional,2024-06-17,15,0
+662,Movistar,Llamada,2024-07-08,22,0
+663,Claro,Internet Fijo,2024-05-04,0,3296
+664,Claro,Llamada Internacional,2024-09-26,24,0
+665,Claro,SMS,2024-01-28,0,0
+666,Movistar,SMS,2024-02-12,0,0
+667,Tigo,SMS,2024-09-15,0,0
+668,Claro,Internet MÃ³vil,2024-04-03,0,328
+669,Tigo,Llamada,2024-02-05,20,0
+670,Movistar,Llamada Internacional,2024-03-29,11,0
+671,Tigo,Llamada Internacional,2024-09-21,0,0
+672,Movistar,Internet Fijo,2024-01-13,0,3455
+673,Tigo,Internet Fijo,2024-06-23,0,6779
+674,Tigo,Internet Fijo,2023-11-24,0,8059
+675,Claro,Llamada,2024-10-09,54,0
+676,Tigo,Internet Fijo,2024-02-15,0,1764
+677,Claro,Internet Fijo,2024-05-10,0,8331
+678,Movistar,SMS,2024-04-01,0,0
+679,Tigo,Internet Fijo,2024-10-01,0,7824
+680,Tigo,Llamada Internacional,2024-07-23,55,0
+681,Movistar,Internet MÃ³vil,2024-07-12,0,3509
+682,Movistar,Llamada Internacional,2023-11-16,33,0
+683,Tigo,Internet MÃ³vil,2024-09-09,0,8645
+684,Movistar,SMS,2024-08-01,0,0
+685,Claro,Internet MÃ³vil,2023-12-05,0,4525
+686,Claro,SMS,2024-04-05,0,0
+687,Movistar,Internet MÃ³vil,2024-07-18,0,3623
+688,Movistar,Llamada Internacional,2024-08-30,39,0
+689,Claro,SMS,2024-03-09,0,0
+690,Claro,Llamada,2024-10-30,34,0
+691,Claro,SMS,2023-12-23,0,0
+692,Claro,Internet MÃ³vil,2024-08-05,0,295
+693,Tigo,SMS,2024-11-04,0,0
+694,Tigo,SMS,2024-09-05,0,0
+695,Tigo,SMS,2024-10-24,0,0
+696,Claro,Llamada Internacional,2024-05-28,28,0
+697,Movistar,SMS,2024-06-11,0,0
+698,Claro,SMS,2024-07-23,0,0
+699,Movistar,Llamada,2024-03-08,56,0
+700,Movistar,SMS,2024-05-05,0,0
+701,Tigo,Llamada Internacional,2023-11-28,20,0
+702,Movistar,SMS,2024-07-25,0,0
+703,Movistar,Internet Fijo,2023-11-20,0,4084
+704,Movistar,Internet MÃ³vil,2024-05-16,0,8141
+705,Claro,Llamada,2024-10-02,7,0
+706,Movistar,Internet MÃ³vil,2024-08-22,0,6779
+707,Tigo,Llamada,2024-03-04,34,0
+708,Claro,Llamada Internacional,2024-01-23,13,0
+709,Claro,Internet MÃ³vil,2024-06-22,0,5674
+710,Claro,Llamada,2024-05-01,41,0
+711,Movistar,Llamada Internacional,2024-04-12,55,0
+712,Movistar,Internet MÃ³vil,2023-12-24,0,3805
+713,Claro,Llamada Internacional,2023-12-15,12,0
+714,Tigo,Internet Fijo,2024-09-09,0,5871
+715,Tigo,Llamada,2024-06-22,57,0
+716,Movistar,SMS,2024-11-03,0,0
+717,Claro,Llamada,2023-12-08,9,0
+718,Claro,Internet MÃ³vil,2024-03-28,0,722
+719,Tigo,Internet Fijo,2024-06-30,0,7729
+720,Movistar,Internet Fijo,2024-01-24,0,9264
+721,Claro,Llamada,2023-11-21,16,0
+722,Movistar,Llamada Internacional,2024-06-17,10,0
+723,Claro,Internet Fijo,2024-01-01,0,4361
+724,Tigo,Internet Fijo,2023-11-14,0,7500
+725,Tigo,Llamada Internacional,2024-04-27,41,0
+726,Claro,Internet Fijo,2023-11-08,0,4157
+727,Tigo,Internet MÃ³vil,2024-04-12,0,3416
+728,Tigo,Llamada,2023-12-19,1,0
+729,Tigo,Internet Fijo,2024-07-10,0,325
+730,Tigo,SMS,2024-02-06,0,0
+731,Claro,Internet Fijo,2024-05-27,0,2745
+732,Tigo,Llamada,2023-11-29,56,0
+733,Tigo,Internet Fijo,2023-11-19,0,9638
+734,Tigo,Llamada,2024-03-12,48,0
+735,Claro,Llamada,2024-06-28,16,0
+736,Movistar,Internet Fijo,2024-04-16,0,663
+737,Tigo,Internet Fijo,2024-03-09,0,2451
+738,Claro,Llamada Internacional,2024-04-05,57,0
+739,Tigo,Llamada,2024-07-13,33,0
+740,Tigo,Internet MÃ³vil,2024-10-24,0,3182
+741,Movistar,Internet Fijo,2024-03-04,0,2831
+742,Claro,Internet Fijo,2024-06-11,0,3855
+743,Tigo,Internet MÃ³vil,2024-08-29,0,9714
+744,Movistar,Llamada Internacional,2023-12-21,36,0
+745,Movistar,Internet MÃ³vil,2024-01-19,0,4942
+746,Movistar,SMS,2024-10-28,0,0
+747,Tigo,SMS,2024-06-05,0,0
+748,Claro,Llamada,2024-02-22,22,0
+749,Tigo,Internet Fijo,2024-06-12,0,1255
+750,Movistar,Llamada Internacional,2024-07-10,60,0
+751,Movistar,Internet Fijo,2024-02-23,0,6871
+752,Movistar,SMS,2024-07-05,0,0
+753,Movistar,Llamada Internacional,2024-01-20,60,0
+754,Movistar,Internet Fijo,2024-01-13,0,9354
+755,Claro,Llamada,2024-10-31,54,0
+756,Claro,Llamada,2024-11-05,33,0
+757,Claro,Llamada Internacional,2024-09-16,28,0
+758,Tigo,Internet MÃ³vil,2024-04-07,0,9148
+759,Claro,Llamada,2024-07-23,43,0
+760,Claro,Llamada Internacional,2024-07-29,6,0
+761,Tigo,Llamada Internacional,2024-09-08,1,0
+762,Tigo,Internet MÃ³vil,2023-11-23,0,7376
+763,Movistar,SMS,2023-12-08,0,0
+764,Claro,Llamada Internacional,2024-03-11,24,0
+765,Movistar,Internet Fijo,2023-11-12,0,2020
+766,Movistar,Llamada Internacional,2024-04-12,9,0
+767,Tigo,Internet MÃ³vil,2024-01-11,0,8884
+768,Claro,Internet MÃ³vil,2024-10-14,0,9272
+769,Claro,Llamada,2023-11-23,22,0
+770,Tigo,SMS,2024-07-05,0,0
+771,Claro,Llamada,2024-03-19,30,0
+772,Tigo,Internet Fijo,2024-01-15,0,8524
+773,Movistar,Internet Fijo,2024-10-30,0,7137
+774,Movistar,Internet Fijo,2024-05-03,0,9429
+775,Tigo,Llamada Internacional,2023-12-25,5,0
+776,Movistar,Internet Fijo,2023-12-13,0,7664
+777,Movistar,Llamada Internacional,2024-01-23,56,0
+778,Tigo,Llamada Internacional,2024-04-12,29,0
+779,Movistar,SMS,2023-11-16,0,0
+780,Claro,Llamada Internacional,2024-02-10,14,0
+781,Movistar,Internet MÃ³vil,2024-06-13,0,8904
+782,Claro,Internet MÃ³vil,2024-10-23,0,8726
+783,Tigo,Llamada Internacional,2024-11-04,8,0
+784,Movistar,Llamada Internacional,2024-03-07,56,0
+785,Tigo,Internet Fijo,2023-11-22,0,8115
+786,Movistar,SMS,2024-05-31,0,0
+787,Tigo,Internet Fijo,2024-08-24,0,314
+788,Tigo,Llamada,2024-02-29,1,0
+789,Tigo,Llamada,2024-04-08,0,0
+790,Claro,Internet Fijo,2024-03-14,0,575
+791,Movistar,Internet MÃ³vil,2023-12-28,0,8675
+792,Claro,Internet MÃ³vil,2024-11-05,0,4047
+793,Movistar,Llamada,2024-02-29,46,0
+794,Claro,Llamada,2024-03-05,14,0
+795,Tigo,Internet Fijo,2023-12-15,0,7826
+796,Tigo,Llamada Internacional,2024-04-09,26,0
+797,Movistar,Llamada Internacional,2024-06-19,31,0
+798,Claro,SMS,2024-11-06,0,0
+799,Movistar,Llamada Internacional,2024-02-10,55,0
+800,Movistar,Llamada,2024-06-21,53,0
+801,Tigo,Internet MÃ³vil,2024-10-19,0,7729
+802,Movistar,Internet MÃ³vil,2024-03-29,0,5795
+803,Movistar,Llamada Internacional,2024-08-05,21,0
+804,Claro,Internet MÃ³vil,2023-11-07,0,8242
+805,Tigo,SMS,2024-03-15,0,0
+806,Claro,Llamada Internacional,2024-10-07,5,0
+807,Claro,Internet MÃ³vil,2024-08-08,0,2749
+808,Movistar,Llamada,2024-01-08,46,0
+809,Movistar,Llamada,2023-11-23,54,0
+810,Movistar,SMS,2024-04-15,0,0
+811,Tigo,Internet MÃ³vil,2024-09-28,0,8918
+812,Tigo,Internet MÃ³vil,2023-12-15,0,5706
+813,Claro,Internet Fijo,2024-07-06,0,1651
+814,Claro,Internet Fijo,2024-01-31,0,9368
+815,Movistar,Llamada Internacional,2024-10-27,47,0
+816,Movistar,Llamada,2024-06-23,21,0
+817,Claro,Internet MÃ³vil,2024-01-02,0,8431
+818,Movistar,SMS,2024-10-29,0,0
+819,Tigo,Llamada Internacional,2023-12-03,25,0
+820,Movistar,Llamada Internacional,2024-01-17,26,0
+821,Tigo,Llamada Internacional,2024-02-17,18,0
+822,Claro,Internet MÃ³vil,2024-03-11,0,9104
+823,Movistar,Internet MÃ³vil,2024-06-06,0,5920
+824,Movistar,Internet MÃ³vil,2024-10-25,0,6548
+825,Tigo,Llamada Internacional,2024-01-03,48,0
+826,Tigo,Llamada Internacional,2024-10-05,15,0
+827,Movistar,SMS,2024-09-04,0,0
+828,Claro,Llamada,2024-07-10,20,0
+829,Movistar,Internet Fijo,2024-08-03,0,2527
+830,Claro,SMS,2023-11-28,0,0
+831,Claro,Llamada Internacional,2024-02-16,54,0
+832,Tigo,Llamada Internacional,2024-04-08,28,0
+833,Tigo,Internet MÃ³vil,2024-05-26,0,8811
+834,Tigo,SMS,2024-10-18,0,0
+835,Claro,Internet Fijo,2023-12-28,0,6830
+836,Claro,SMS,2024-08-06,0,0
+837,Claro,Internet MÃ³vil,2024-07-18,0,3077
+838,Claro,SMS,2024-06-23,0,0
+839,Tigo,SMS,2024-05-20,0,0
+840,Movistar,Internet Fijo,2024-07-20,0,98
+841,Tigo,Llamada,2024-08-04,8,0
+842,Claro,Llamada Internacional,2024-10-24,48,0
+843,Claro,Llamada,2024-10-30,17,0
+844,Claro,SMS,2024-06-17,0,0
+845,Tigo,Internet Fijo,2024-03-23,0,9335
+846,Claro,Llamada,2024-05-23,3,0
+847,Movistar,Internet MÃ³vil,2024-07-29,0,6974
+848,Movistar,Llamada,2024-09-04,13,0
+849,Tigo,Internet MÃ³vil,2024-06-19,0,7188
+850,Movistar,Internet MÃ³vil,2024-07-14,0,7171
+851,Claro,Internet Fijo,2024-07-31,0,6547
+852,Movistar,Internet MÃ³vil,2024-09-29,0,9681
+853,Tigo,Llamada Internacional,2024-09-15,0,0
+854,Tigo,SMS,2023-12-19,0,0
+855,Tigo,Internet Fijo,2024-10-08,0,4158
+856,Tigo,Internet Fijo,2024-05-11,0,7490
+857,Tigo,Llamada Internacional,2024-01-16,24,0
+858,Claro,Llamada,2024-09-22,12,0
+859,Movistar,SMS,2024-07-12,0,0
+860,Tigo,Llamada Internacional,2024-10-29,36,0
+861,Tigo,Internet MÃ³vil,2024-01-02,0,5346
+862,Movistar,SMS,2024-09-04,0,0
+863,Claro,Internet Fijo,2024-05-14,0,8796
+864,Tigo,SMS,2024-03-25,0,0
+865,Claro,Llamada Internacional,2023-11-18,57,0
+866,Movistar,SMS,2024-06-10,0,0
+867,Claro,Llamada Internacional,2024-08-15,51,0
+868,Movistar,Llamada,2024-07-21,10,0
+869,Claro,Internet MÃ³vil,2024-10-03,0,6012
+870,Movistar,Llamada,2024-04-29,42,0
+871,Claro,Llamada,2024-10-26,11,0
+872,Movistar,Llamada Internacional,2024-10-29,55,0
+873,Tigo,Llamada,2024-02-12,6,0
+874,Claro,Internet Fijo,2024-03-30,0,7330
+875,Movistar,Internet Fijo,2024-11-02,0,1479
+876,Tigo,Llamada Internacional,2024-05-06,27,0
+877,Tigo,Internet Fijo,2024-01-12,0,5392
+878,Claro,Llamada Internacional,2023-12-06,7,0
+879,Movistar,Internet Fijo,2024-07-29,0,1879
+880,Claro,Llamada Internacional,2024-09-17,12,0
+881,Claro,Llamada Internacional,2024-01-02,8,0
+882,Claro,Internet Fijo,2024-06-22,0,5700
+883,Claro,Internet MÃ³vil,2024-10-06,0,8055
+884,Claro,Llamada Internacional,2024-09-14,59,0
+885,Claro,Internet Fijo,2024-10-06,0,2185
+886,Movistar,Llamada Internacional,2024-06-26,42,0
+887,Tigo,Internet MÃ³vil,2023-11-13,0,9696
+888,Movistar,SMS,2024-09-28,0,0
+889,Claro,Llamada Internacional,2023-12-08,53,0
+890,Tigo,Internet MÃ³vil,2024-04-29,0,3317
+891,Tigo,Llamada,2023-12-30,34,0
+892,Movistar,Llamada,2023-12-22,1,0
+893,Movistar,SMS,2023-12-04,0,0
+894,Movistar,Llamada,2023-12-04,2,0
+895,Movistar,Llamada Internacional,2024-09-29,6,0
+896,Tigo,Internet MÃ³vil,2024-09-22,0,6853
+897,Claro,Llamada Internacional,2024-02-15,28,0
+898,Claro,Llamada,2024-01-09,28,0
+899,Movistar,Llamada Internacional,2023-11-07,21,0
+900,Claro,Llamada,2023-11-16,44,0
+901,Claro,Llamada,2024-09-24,6,0
+902,Claro,Llamada,2024-02-21,2,0
+903,Claro,Internet MÃ³vil,2024-10-04,0,9193
+904,Claro,Llamada,2024-05-30,31,0
+905,Claro,Llamada Internacional,2024-04-29,14,0
+906,Claro,Internet Fijo,2024-02-25,0,7709
+907,Tigo,SMS,2024-04-18,0,0
+908,Tigo,Internet MÃ³vil,2024-05-29,0,44
+909,Tigo,SMS,2023-12-22,0,0
+910,Movistar,SMS,2024-03-20,0,0
+911,Claro,Llamada Internacional,2024-09-14,7,0
+912,Movistar,Internet MÃ³vil,2024-10-20,0,4159
+913,Claro,Internet Fijo,2024-03-14,0,619
+914,Movistar,Llamada Internacional,2024-06-08,11,0
+915,Tigo,Llamada Internacional,2024-09-01,51,0
+916,Movistar,Internet MÃ³vil,2024-10-24,0,7168
+917,Tigo,Internet MÃ³vil,2024-05-10,0,4594
+918,Movistar,Internet MÃ³vil,2023-11-27,0,477
+919,Tigo,SMS,2024-01-21,0,0
+920,Claro,Internet Fijo,2024-08-10,0,4691
+921,Tigo,Internet Fijo,2024-10-03,0,2812
+922,Claro,Llamada,2024-09-04,25,0
+923,Claro,Llamada Internacional,2024-10-03,4,0
+924,Tigo,SMS,2024-03-18,0,0
+925,Tigo,Internet MÃ³vil,2024-03-13,0,6164
+926,Claro,Llamada,2024-09-01,48,0
+927,Movistar,Llamada Internacional,2024-10-27,29,0
+928,Claro,Llamada Internacional,2024-06-12,52,0
+929,Movistar,Llamada Internacional,2023-12-26,51,0
+930,Claro,SMS,2024-02-14,0,0
+931,Claro,Llamada,2024-09-29,15,0
+932,Movistar,Llamada Internacional,2024-03-31,15,0
+933,Tigo,Internet Fijo,2024-03-15,0,3066
+934,Tigo,SMS,2024-01-23,0,0
+935,Claro,SMS,2023-12-30,0,0
+936,Tigo,Internet Fijo,2024-05-10,0,5759
+937,Claro,Internet MÃ³vil,2024-06-15,0,5463
+938,Movistar,Internet Fijo,2024-03-24,0,4061
+939,Claro,Llamada Internacional,2024-11-06,33,0
+940,Movistar,Llamada,2024-06-05,0,0
+941,Claro,Llamada Internacional,2024-07-15,43,0
+942,Movistar,Internet Fijo,2024-06-15,0,5866
+943,Movistar,Internet Fijo,2024-08-26,0,1670
+944,Tigo,Internet Fijo,2024-03-03,0,6076
+945,Claro,Llamada,2024-10-17,30,0
+946,Claro,Llamada Internacional,2024-01-02,40,0
+947,Tigo,Llamada,2024-08-13,0,0
+948,Movistar,SMS,2024-10-20,0,0
+949,Tigo,Internet Fijo,2024-07-15,0,6743
+950,Tigo,Internet Fijo,2023-11-07,0,3798
+951,Movistar,Llamada Internacional,2024-11-04,29,0
+952,Tigo,SMS,2024-03-17,0,0
+953,Movistar,Internet Fijo,2024-10-10,0,8276
+954,Movistar,Llamada,2024-10-18,9,0
+955,Tigo,Internet Fijo,2023-11-21,0,5516
+956,Tigo,SMS,2023-11-26,0,0
+957,Tigo,Llamada,2024-09-17,9,0
+958,Tigo,SMS,2024-01-29,0,0
+959,Movistar,Llamada Internacional,2024-07-01,27,0
+960,Movistar,SMS,2024-06-07,0,0
+961,Tigo,SMS,2024-08-27,0,0
+962,Claro,Internet MÃ³vil,2024-06-18,0,5758
+963,Movistar,Internet Fijo,2023-12-23,0,869
+964,Tigo,Llamada,2024-11-06,26,0
+965,Movistar,Internet Fijo,2024-07-05,0,534
+966,Claro,Llamada,2023-11-16,32,0
+967,Claro,Llamada,2024-10-29,13,0
+968,Movistar,SMS,2024-07-16,0,0
+969,Tigo,Llamada,2024-07-13,5,0
+970,Claro,SMS,2023-12-06,0,0
+971,Movistar,Llamada Internacional,2023-11-27,48,0
+972,Claro,SMS,2023-11-25,0,0
+973,Tigo,SMS,2024-01-12,0,0
+974,Tigo,Internet Fijo,2024-05-07,0,8184
+975,Claro,Llamada Internacional,2024-02-02,5,0
+976,Movistar,Llamada,2024-05-06,34,0
+977,Claro,SMS,2024-10-17,0,0
+978,Claro,Llamada Internacional,2024-07-26,48,0
+979,Claro,Llamada Internacional,2024-03-05,34,0
+980,Claro,Llamada Internacional,2024-01-07,9,0
+981,Claro,Llamada Internacional,2023-11-25,37,0
+982,Tigo,Internet Fijo,2024-02-21,0,7440
+983,Claro,Internet Fijo,2024-10-14,0,9651
+984,Tigo,Llamada,2024-07-18,13,0
+985,Tigo,Internet MÃ³vil,2024-04-17,0,6181
+986,Movistar,Internet Fijo,2024-05-15,0,8367
+987,Tigo,Internet Fijo,2024-09-09,0,1296
+988,Claro,Llamada,2024-01-17,28,0
+989,Claro,Llamada,2024-06-19,31,0
+990,Tigo,Llamada Internacional,2024-10-23,47,0
+991,Claro,Llamada Internacional,2024-10-12,17,0
+992,Claro,Internet MÃ³vil,2024-08-27,0,1101
+993,Claro,Llamada Internacional,2024-02-11,27,0
+994,Movistar,Internet MÃ³vil,2024-10-25,0,3993
+995,Movistar,Internet Fijo,2023-12-14,0,9656
+996,Movistar,Llamada Internacional,2024-03-21,3,0
+997,Movistar,Llamada,2024-05-13,36,0
+998,Tigo,Llamada Internacional,2023-12-22,9,0
+999,Movistar,Llamada Internacional,2024-07-31,7,0
+1000,Claro,Llamada,2024-07-14,49,0
